@@ -1,0 +1,9 @@
+.first{
+  background-image: url(./assets/bg.jpg);
+}
+button{
+  width: 100px;
+  height: 35px;
+  border:none;
+  
+}
